@@ -1,0 +1,19 @@
+{
+    "name": "attitude/universal-time-identificator",
+    "description": "Time÷based ID in nanoseconds",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Adamko",
+            "email": "attitude@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "UniversalTime\\Identificator\\": "src/"
+        }
+    },
+    "require": {}
+}
